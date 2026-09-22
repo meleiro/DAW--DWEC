@@ -1,3 +1,6 @@
 [submodule "PROYECTO1"]
 	path = PROYECTO1
 	url = https://github.com/meleiro/DAW--DWEC-PROYECTO1.git
+[submodule "PELADILLOSELADIO"]
+	path = PELADILLOSELADIO
+	url = https://github.com/meleiro/DAW-DWEC-PELADILLOSELADIO.git
