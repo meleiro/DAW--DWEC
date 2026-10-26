@@ -4,3 +4,6 @@
 [submodule "PELADILLOSELADIO"]
 	path = PELADILLOSELADIO
 	url = https://github.com/meleiro/DAW-DWEC-PELADILLOSELADIO.git
+[submodule "TASKMANAGER"]
+	path = TASKMANAGER
+	url = https://github.com/meleiro/DAW-DWEC-TASKMANAGER.git
